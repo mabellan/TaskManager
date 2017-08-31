@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app = "http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/priority"
+        android:icon="@drawable/ic_action_alert"
+        android:visible="true"
+        android:title="@string/sort_by_priority"
+        app:showAsAction="ifRoom"
+        android:enabled="true" />
+    <item
+        android:id="@+id/sort_date"
+        app:showAsAction="never"
+        android:title="@string/Sort_by_date"
+    />
+
+
+</menu>

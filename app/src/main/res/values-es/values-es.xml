@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Sort_by_date">Ordenar por fecha</string>
+    <string name="tittle">Añadir nuevo evento</string>
+    <string name="priority">Prioridad</string>
+    <string name="task">Nombre del evento</string>
+    <string name="add">AÑADIR</string>
+    <string name="missatge">¿Deseas eliminar esta actividad?</string>
+    <string name="si">Si</string>
+    <string name="pending_tasks">Eventos pendientes</string>
+    <string name="sort_by_priority">Ordena por prioridad</string>
+
+
+
+    <string name="asap2">ASAP</string>
+    <string name="important2">Importante</string>
+    <string name="normal2">Normal</string>
+    <string name="low2">Poco importante</string>
+
+    <string name="sure">¿Estas seguro que deseas eliminar esta actividad?</string>
+    <string name="yes">Eliminar</string>
+    <string name="no">Cancelar</string>
+
+
+    <string-array name="spinner_values">
+        <item><string name="asap">ASAP</string></item>
+        <item><string name="important">Importante</string></item>
+        <item><string name="normal">Normal</string></item>
+        <item><string name="low">Poco importante</string></item>
+
+    </string-array>
+
+
+
+
+</resources>

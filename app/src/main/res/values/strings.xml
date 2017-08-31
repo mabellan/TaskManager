@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string name="Sort_by_date">Sort by Date</string>
+    <string name="tittle">Add new task </string>
+    <string name="priority">Priority</string>
+    <string name="task">Name Task</string>
+    <string name="add">ADD</string>
+    <string name="missatge">Do you want to delete this activity?</string>
+    <string name="si">Yes</string>
+    <string name="pending_tasks">Pending tasks</string>
+    <string name="sort_by_priority">Sort by priority</string>
+
+
+    <string name="asap2">ASAP</string>
+    <string name="important2">Important</string>
+    <string name="normal2">Normal</string>
+    <string name="low2">Not important</string>
+
+    <string name="sure">Are you sure you want to remove this task?</string>
+    <string name="yes">Remove</string>
+    <string name="no">Cancel</string>
+
+
+
+
+    <string-array name="spinner_values">
+        <item><string name="asap">ASAP</string></item>
+        <item><string name="important">Important</string></item>
+        <item><string name="normal">Normal</string></item>
+        <item><string name="low">Not important</string></item>
+
+    </string-array>
+
+
+</resources>
